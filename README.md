@@ -18,6 +18,7 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I took my kids on a 6-month backpacking trip through Southeast Asia. We've since done the same thing in Europe and Mexico. We honestly would have never stopped, but my daughter loves drums and wanted to attend public school so she could learn to play from a real band director (Dad enjoys guitar but is a terrible drummer).
 
+### A quick project reference
 
 | Site                 | Source                                                             | Stack                                           | Currently Deploying To |
 |----------------------|--------------------------------------------------------------------|-------------------------------------------------|------------------------|
