@@ -13,7 +13,7 @@
 ### Here's some more about me
 - 🌱 I’m currently learning Rust through studying the Linux Programming Interface
 - 👯 I’m looking to collaborate on CLI projects that improve productivity. These tools are fun to build, useful and are different enough from my daily work. 
-- 🤔 What I want to learn next: My 2022 goal is to dive deep into Disrete Mathematics
+- 🤔 What I want to learn next: My 2022 goal is to dive deep into Discrete Mathematics
 - 📫 How to reach me: stephenfairchilddev@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I took my kids on a 6-month backpacking trip through Southeast Asia and we had the time of our lives. We've since done the same thing in Europe and Mexico. We honestly would have never stopped, but my daughter loves drums and wanted to attend public school so she could learn to play from a real band director (Dad enjoys guitar but is a terrible drummer).
