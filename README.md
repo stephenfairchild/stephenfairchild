@@ -10,3 +10,10 @@
 - 📫 How to reach me: stephenfairchilddev@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I took my kids on a 6-month backpacking trip through Southeast Asia and we had the time of our lives. We've since done the same thing in Europe and Mexico. We honestly would have never stopped, but my daughter loves drums and wanted to attend public school so she could learn to play from a real band director (Dad enjoys guitar but is a terrible drummer).
+
+
+| Site                 | Source                                                             | Stack                                           | Currently Deploying To |
+|----------------------|--------------------------------------------------------------------|-------------------------------------------------|------------------------|
+| blog.sgfairchild.com | [Github](https://github.com/stephenfairchild/blog.sgfairchild.com) | NextJS, Sanity, Tailwind CSS, Styled Components | Netlify                |
+| haleyfairchild.com   | [Github](https://github.com/stephenfairchild/haleyfairchild.com)   | NextJS, Knex, Sendgrid, Tailwind CSS            | Vercel                 |
+|                      |                                                                    |                                                 |                        |
