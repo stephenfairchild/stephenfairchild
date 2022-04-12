@@ -12,7 +12,7 @@
 
 
 ### Here's some more about me
-- 🌱 I’m currently learning Rust through studying the Linux Programming Interface
+- 🌱 I’m currently learning Rust while studying the Linux Programming Interface
 - 👯 I’m looking to collaborate on CLI projects that improve productivity. These tools are fun to build, useful and are different enough from my daily work. 
 - 🤔 What I want to learn next: My 2022 goal is to dive deep into Discrete Mathematics
 - 📫 How to reach me: stephenfairchilddev@gmail.com
