@@ -4,7 +4,7 @@
 - 🤔 What I want to learn next: My 2022 goal is to dive deep into Discrete Mathematics
 - 📫 How to reach me: stephenfairchilddev@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I took my kids on a 6-month backpacking trip through Southeast Asia. We've since done the same thing in Europe and Mexico. We would have never stopped, but my daughter loves drums and wanted to attend public school so she could learn to play from a real band director (Dad plays guitar but is a terrible drummer).
+- ⚡ Fun fact: I took my kids on a 6-month backpacking trip through Southeast Asia. We've since done the same thing in Europe and Mexico. We would have never stopped, but my daughter loves drums and wanted to attend public school so she could learn to play from a real band director
 
 ### A quick project reference
 | Site                 |Status | Source                                                             | Stack                                           | Currently Deploying To |
