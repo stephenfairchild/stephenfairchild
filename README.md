@@ -1,9 +1,9 @@
-### Hello! 👋
 - 🌱 I’m currently learning Rust while studying the Linux Programming Interface. I've really been diving deep into distributed systems tracing at MAX Digital
   while working on our inventory photo tooling. 
 - 🤔 What I want to learn next: My 2023 goal is to dive deep into WiredTiger, the open source engine that MongoDB uses. 
 - 📫 How to reach me: stephenfairchilddev@gmail.com
-- 😄 Pronouns: He/Him
+
+He/Him
 
 ### A quick project reference
 | Site                 |Status | Source                                                             | Stack                                           | Currently Deploying To |
